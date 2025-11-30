@@ -1,6 +1,6 @@
 # EX-NO-4-EXPERIMENTAL-VERIFICATION-OF-OSCILLATOR
 4. ##**EX.NO:* ## EXPERIMENTAL VERIFICATION OF RC Phase Shift and Wien Bridge oscillators 
-	DATE:
+	DATE:25.10.2025
  ##AIM:
 To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
 amp.
@@ -19,7 +19,7 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 |2   | Dual RPS                        | (0–30) V      | 1        |
 | 3    | Op-amp                          | µA741         | 1        |
 |4    | Bread Board                     | —             | 1        |
-|5   | Resistors                       | 1K, 3.3K, 1.5K, 33K, 15K, 1MΩ | 2 |
+|5   | Resistors                       | 450K, 1.5K,15k| 2 |
 |6    | Capacitor                       | 0.1 µF        | 3        |
 | 6   | Connecting wires and probes     | As required   | —        |
 | 
@@ -29,7 +29,8 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
+![WhatsApp Image 2025-12-01 at 00 56 00_cd37692b](https://github.com/user-attachments/assets/b578138e-de6b-4adb-ae0f-f0d895dbe4dd)
+
 
 
 
@@ -56,22 +57,18 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 3.	Measure the output wave frequency and amplitude.
 ---
 ## TABULATION/OBSERVATION
+![WhatsApp Image 2025-12-01 at 00 58 54_d5198343](https://github.com/user-attachments/assets/4ea19729-d2e7-43c7-b8d4-df4c887b1647)
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-12-01 at 01 05 19_1985c0fd](https://github.com/user-attachments/assets/be0df04d-8ca7-47a8-8828-2c9b845d63e1)
 
 ---
 ## THEORY
  ##WIEN BRIDGE
+ ## DATE : 01.11.2025
 A bridge circuit with two components connected in series and parallel combination is used to archived the required of phase shift of 0o. When the bridge is balanced the phase shift of 0o is achieved and the feedback signal is connected to the positive terminal; of Op-amp. So the Op-amp is acting as a non-inverting amplifier and the feedback network do not provide any phase shift.
 The frequency of oscillation is given by fo = 1/2πRC
 ## APPARATUS REQUIRED
@@ -82,7 +79,7 @@ The frequency of oscillation is given by fo = 1/2πRC
 |2   | Dual RPS                        | (0–30) V      | 1        |
 | 3    | Op-amp                          | µA741         | 1        |
 |4    | Bread Board                     | —             | 1        |
-|5   | Resistors                       | 1K, 3.3K, 1.5K, 33K, 15K, 1MΩ | 2 |
+|5   | Resistors                       | 30k,15k,1.5k | 2 |
 |6    | Capacitor                       | 0.1 µF        | 3        |
 | 7 | Connecting wires and probes     | As required   | —        |
 
@@ -90,7 +87,7 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-<img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
+	![WhatsApp Image 2025-12-01 at 01 07 28_d8039572](https://github.com/user-attachments/assets/f7b7b22c-6d0a-4434-a38c-889a44060ad1)
 
 
 ---
@@ -123,17 +120,12 @@ Rf = 15K *2=30KΩ
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 ---
 ## TABULATION/OBSERVATION
+![WhatsApp Image 2025-12-01 at 01 08 48_7b063cf1](https://github.com/user-attachments/assets/eefef6cd-2776-4da7-9f6c-c72cfb2a7187)
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
----
+
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-01 at 01 09 29_fcd860d0](https://github.com/user-attachments/assets/1e8429c8-d76e-4d73-b5ff-624854d4f312)
 
 
 ---
