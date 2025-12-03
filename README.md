@@ -57,8 +57,9 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 3.	Measure the output wave frequency and amplitude.
 ---
 ## TABULATION/OBSERVATION
-![WhatsApp Image 2025-12-01 at 00 58 54_d5198343](https://github.com/user-attachments/assets/4ea19729-d2e7-43c7-b8d4-df4c887b1647)
+![WhatsApp Image 2025-12-03 at 21 22 18_7aa571ba](https://github.com/user-attachments/assets/e18f6592-09a5-4b0b-91a9-49ed917a12f3)
 
+![WhatsApp Image 2025-12-03 at 21 22 50_29598037](https://github.com/user-attachments/assets/238eacff-e98f-4df6-a39c-54c123565d78)
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
@@ -122,6 +123,7 @@ Rf = 15K *2=30KΩ
 ## TABULATION/OBSERVATION
 ![WhatsApp Image 2025-12-01 at 01 08 48_7b063cf1](https://github.com/user-attachments/assets/eefef6cd-2776-4da7-9f6c-c72cfb2a7187)
 
+![WhatsApp Image 2025-12-03 at 21 23 03_3cc72e5b](https://github.com/user-attachments/assets/f1d2a34d-7d7c-49e5-9776-1e0759d9fdf9)
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
